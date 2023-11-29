@@ -27,13 +27,6 @@ Ce projet est une plateforme de vente en ligne développée en utilisant PHP, HT
 
 - Utilisation de la clause ON DELETE CASCADE pour assurer la cohérence des données lors de la suppression de catégories ou d'annonces.
 
-### Barre de Recherche
-
-- Intégration d'une barre de recherche pour permettre aux utilisateurs de rechercher des annonces.
-
-### Filtrage par Catégorie
-
-- Implémentation d'une fonctionnalité de filtrage pour permettre aux utilisateurs de trier les annonces par catégorie.
 
 ## Technologies Utilisées
 
