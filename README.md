@@ -44,7 +44,7 @@ Ce projet est une plateforme de vente en ligne développée en utilisant PHP, HT
 
 ## Comment Contribuer
 
-1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/avito-projet.git`
+1. Clonez le dépôt : `git clone https://github.com/Youcode-Classe-E-2023-2024/Naoufal_Labrihmi_avito_v2`
 2. Créez une branche pour votre fonctionnalité : `git checkout -b nouvelle-fonctionnalite`
 3. Faites vos modifications et committez : `git commit -m "Ajout de la nouvelle fonctionnalité"`
 4. Poussez vos changements : `git push origin nouvelle-fonctionnalite`
@@ -54,5 +54,5 @@ N'hésitez pas à contribuer et à améliorer ce projet!
 
 ---
 
-**Auteur :** Votre Nom
+**Auteur :** Naoufal Labrihmi
 **Entreprise :** Avito
